@@ -21,12 +21,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Web-dev-rafik/profile-card-component/blob/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Code URL](https://github.com/Web-dev-rafik/profile-card-component)
+- Live Site URL: [Live site URL](https://web-dev-rafik.github.io/profile-card-component/)
 
 ## My process
 
